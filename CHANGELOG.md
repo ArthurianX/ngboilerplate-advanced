@@ -1,3 +1,22 @@
+
+# 0.1.1 (2013-12-15)
+
+* Added .bowerrc file so that bower install would place everything in the vendor folder (post update issue)
+* Created Features Page
+* Started implementation of ng-animate page transitions.
+
+
+# 0.1 (2013-12-13)
+
+* Shamelessly copied ng-boilerplate
+* Updated all the libraries
+* Fixed some post-update fallback and dependency issues.
+
+
+############################## Original ng-boilerplate changelog, ##############################
+############################## everything above this line[s] belongs ##############################
+############################## to ng-boilerplate-advanced         ##############################
+
 # 0.3.1 (2013-09-13)
 
 ## Features

@@ -1,16 +1,16 @@
 {
-  "author": "Josh David Miller",
-  "name": "ng-boilerplate",
-  "version": "0.3.1",
-  "homepage": "http://bit.ly/ng-boilerplate",
+  "author": "Kovacs Arthur",
+  "name": "ng-boilerplate-advanced",
+  "version": "0.1.1",
+  "homepage": "https://github.com/ArthurianX/ngboilerplate-advanced",
   "licenses": {
     "type": "MIT",
     "url": "https://raw.github.com/joshdmiller/ng-boilerplate/master/LICENSE"
   },
-  "bugs": "https://github.com/joshdmiller/ng-boilerplate/issues",
+  "bugs": "https://github.com/ArthurianX/ngboilerplate-advanced/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:joshdmiller/ng-boilerplate.git"
+    "url": "git@github.com:ArthurianX/ngboilerplate-advanced.git"
   },
   "dependencies": {},
   "devDependencies": {
